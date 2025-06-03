@@ -3,11 +3,8 @@
  MiniSHELL is a simple custom shell written in C. It supports basic shell commands, custom prompts, background jobs, and piping.
 
  *Features*
-Custom Prompt:
 
-Default prompt: msh>
-
-Change prompt using: PS1=YourPrompt
+Change prompt using: PS1=YourPrompt like PS1=Balu
 
 No spaces allowed (e.g., PS1 = test is invalid)
 
